@@ -1,2 +1,2 @@
 # hello-world
-Beginning my voyage
+Start my voyage

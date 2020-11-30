@@ -1,7 +1,2 @@
-# hello-world
-
-I hate many things, including myself.
-
-Hope things will change.
-
-Start my voyage of accepting myself.
+# Digital Image Processing
+This is a repository for book *Digital Image Processing 4th Edition Rafael C. Gonzalez • Richard E. Woods*
